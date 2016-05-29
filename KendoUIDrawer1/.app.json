@@ -5,7 +5,7 @@
       "type": "kendo-ui-mobile:view",
       "name": "homeView",
       "components": [],
-      "title": "Home View",
+      "title": "Documanager 1.0",
       "addToNavigation": true,
       "icon": "home"
     },

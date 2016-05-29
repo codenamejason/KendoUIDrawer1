@@ -28,6 +28,8 @@
     <Content Include=".release.abproject" />
     <Content Include=".yo-rc.json" />
     <Content Include="app.js" />
+    <Content Include="components\Products\index.js" />
+    <Content Include="components\Products\view.html" />
     <Content Include="cordova.android.js" />
     <Content Include="cordova.ios.js" />
     <Content Include="cordova.wp8.js" />
@@ -117,6 +119,7 @@
     <Folder Include="components\" />
     <Folder Include="components\contactsView\" />
     <Folder Include="components\homeView\" />
+    <Folder Include="components\Products\" />
     <Folder Include="components\settingsView\" />
     <Folder Include="kendo\" />
     <Folder Include="kendo\js\" />
